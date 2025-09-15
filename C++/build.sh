@@ -1,0 +1,1 @@
+clang++ -std=c++23 -O3 -Wall -Wextra -pedantic -o main main.cxx
